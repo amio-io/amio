@@ -1,3 +1,3 @@
-# API
+# Amio
 
-Repository for reporting issues and feature requests of [Amio API](https://docs.amio.io/).
+Repository for reporting issues and feature requests of [Amio Project](http://amio.io/).
