@@ -4,8 +4,9 @@ Repository for reporting issues and feature requests of [Amio Project](http://am
 
 ## Tools
 
-SDK 
-  - [JavaScript](https://github.com/amio-io/amio-sdk-js)
+JavaScript
+  - [SDK](https://github.com/amio-io/amio-sdk-js)
+  - [Chatbot Builder](https://github.com/amio-io/amio-chatbot-builder-js)
 
 Documentation
   - [Facebook Messenger](https://docs.amio.io/v1.0/reference#api-facebook-messenger)
