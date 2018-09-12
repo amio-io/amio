@@ -1,17 +1,22 @@
 # Amio
 
-Repository for reporting issues and feature requests of [Amio Project](http://amio.io/).
+Main Amio repository. You can find Amio SDKs, links to documentation, report issues or feature requests.
 
-## Tools
+Happy coding! 🙃
 
-JavaScript
-  - [SDK](https://github.com/amio-io/amio-sdk-js)
-  - [Chatbot Builder](https://github.com/amio-io/amio-chatbot-builder-js) 🆕
+## SDKs
 
-Documentation
+### Amio API
+  - [Node.js (JavaScript)](https://github.com/amio-io/amio-sdk-js)
+
+### Chatbot Builder
+  - [Node.js (JavaScript)](https://github.com/amio-io/amio-chatbot-builder-js) 🆕
+
+## API Reference
   - [Facebook Messenger](https://docs.amio.io/v1.0/reference#api-facebook-messenger)
-  - [Viber](https://docs.amio.io/v1.0/reference#api-viber)
+  - [Viber Bot](https://docs.amio.io/v1.0/reference#api-viber)
+  - [Viber Business Messages](https://docs.amio.io/v1.0/reference#api-viber-business-messages)
   - [Mobile (SMS)](https://docs.amio.io/v1.0/reference#api-mobile)
   
-Examples
-  - [Postman Collections](https://docs.amio.io/v1.0/reference#api-facebook-messenger) - press the orange button "Run in Postman"
+## Tools
+  - Postman Amio API Collections: [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/f7c21c295e11755fca78#?env%5Bamio%5D=W3sidHlwZSI6InRleHQiLCJlbmFibGVkIjp0cnVlLCJrZXkiOiJzZXJ2ZXJfdXJsIiwidmFsdWUiOiJodHRwczovL2FwaS5hbWlvLmlvIn0seyJ0eXBlIjoidGV4dCIsImVuYWJsZWQiOnRydWUsImtleSI6ImFwaV92ZXJzaW9uIiwidmFsdWUiOiIvdjEifSx7InR5cGUiOiJ0ZXh0IiwiZW5hYmxlZCI6dHJ1ZSwia2V5IjoiYWNjZXNzX3Rva2VuIiwidmFsdWUiOiJ7e1RPX0JFX1NFVH19In0seyJ0eXBlIjoidGV4dCIsImVuYWJsZWQiOnRydWUsImtleSI6ImZhY2Vib29rX21lc3Nlbmdlci5jaGFubmVsLmlkIiwidmFsdWUiOiJ7e1RPX0JFX1NFVH19In0seyJ0eXBlIjoidGV4dCIsImVuYWJsZWQiOnRydWUsImtleSI6ImZhY2Vib29rX21lc3Nlbmdlci5jb250YWN0LmlkIiwidmFsdWUiOiJ7e1RPX0JFX1NFVH19In0seyJ0eXBlIjoidGV4dCIsImVuYWJsZWQiOnRydWUsImtleSI6ImZhY2Vib29rX21lc3Nlbmdlci5jb250YWN0LnBob25lX251bWJlciIsInZhbHVlIjoie3tUT19CRV9TRVR9fSJ9LHsidHlwZSI6InRleHQiLCJlbmFibGVkIjp0cnVlLCJrZXkiOiJmYWNlYm9va19tZXNzZW5nZXIuY29udGFjdC5maXJzdF9uYW1lIiwidmFsdWUiOiJ7e1RPX0JFX1NFVH19In0seyJ0eXBlIjoidGV4dCIsImVuYWJsZWQiOnRydWUsImtleSI6ImZhY2Vib29rX21lc3Nlbmdlci5jb250YWN0Lmxhc3RfbmFtZSIsInZhbHVlIjoie3tUT19CRV9TRVR9fSJ9LHsidHlwZSI6InRleHQiLCJlbmFibGVkIjp0cnVlLCJrZXkiOiJmYWNlYm9va19tZXNzZW5nZXIuY29udGFjdC51c2VyX3JlZiIsInZhbHVlIjoie3tUT19CRV9TRVR9fSJ9LHsidHlwZSI6InRleHQiLCJlbmFibGVkIjp0cnVlLCJrZXkiOiJmYWNlYm9va19tZXNzZW5nZXIuZmFjZWJvb2tfcGFnZS5hY2Nlc3NfdG9rZW4iLCJ2YWx1ZSI6Int7VE9fQkVfU0VUfX0ifSx7InR5cGUiOiJ0ZXh0IiwiZW5hYmxlZCI6dHJ1ZSwia2V5IjoidmliZXJfYm90LmNoYW5uZWwuaWQiLCJ2YWx1ZSI6Int7VE9fQkVfU0VUfX0ifSx7InR5cGUiOiJ0ZXh0IiwiZW5hYmxlZCI6dHJ1ZSwia2V5IjoidmliZXJfYm90LmNvbnRhY3QuaWQiLCJ2YWx1ZSI6Int7VE9fQkVfU0VUfX0ifSx7InR5cGUiOiJ0ZXh0IiwiZW5hYmxlZCI6dHJ1ZSwia2V5IjoidmliZXJfYm90LmFjY2Vzc190b2tlbiIsInZhbHVlIjoie3tUT19CRV9TRVR9fSJ9LHsidHlwZSI6InRleHQiLCJlbmFibGVkIjp0cnVlLCJrZXkiOiJ2aWJlcl9idXNpbmVzcy5jaGFubmVsLmlkIiwidmFsdWUiOiJ7e1RPX0JFX1NFVH19IiwiZGVzY3JpcHRpb24iOiIifSx7InR5cGUiOiJ0ZXh0IiwiZW5hYmxlZCI6dHJ1ZSwia2V5IjoidmliZXJfYnVzaW5lc3MuY29udGFjdC5waG9uZV9udW1iZXIiLCJ2YWx1ZSI6Int7VE9fQkVfU0VUfX0ifSx7InR5cGUiOiJ0ZXh0IiwiZW5hYmxlZCI6dHJ1ZSwia2V5IjoidmliZXJfYnVzaW5lc3MuY29udGFjdC5pZCIsInZhbHVlIjoie3tUT19CRV9TRVR9fSIsImRlc2NyaXB0aW9uIjoiIn0seyJ0eXBlIjoidGV4dCIsImVuYWJsZWQiOnRydWUsImtleSI6Im1vYmlsZS5jaGFubmVsLmlkIiwidmFsdWUiOiJ7e1RPX0JFX1NFVH19IiwiZGVzY3JpcHRpb24iOiIifSx7InR5cGUiOiJ0ZXh0IiwiZW5hYmxlZCI6dHJ1ZSwia2V5IjoibW9iaWxlLmNvbnRhY3QuaWQiLCJ2YWx1ZSI6Int7VE9fQkVfU0VUfX0iLCJkZXNjcmlwdGlvbiI6IiJ9LHsidHlwZSI6InRleHQiLCJlbmFibGVkIjp0cnVlLCJrZXkiOiJtb2JpbGUuY29udGFjdC5waG9uZV9udW1iZXIiLCJ2YWx1ZSI6Int7VE9fQkVfU0VUfX0iLCJkZXNjcmlwdGlvbiI6IiJ9XQ==)
