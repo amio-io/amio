@@ -1,16 +1,20 @@
 # Amio
 
-Main Amio repository. You can find Amio SDKs, links to documentation, report issues or feature requests.
+- [Amio.io](https://amio.io)
+- [Documentation](https://docs.amio.io/docs)
+- [API reference](https://docs.amio.io/reference)
+
+Main Amio repository. You can find Amio SDKs and links to documentation here. Feel free to report issues or submit feature requests.
 
 Happy coding! 🙃
 
 ## SDKs
 
 ### Amio API
-  - [Node.js (JavaScript)](https://github.com/amio-io/amio-sdk-js)
+  - [Node.js](https://github.com/amio-io/amio-sdk-js)
 
 ### Chatbot Builder
-  - [Node.js (JavaScript)](https://github.com/amio-io/amio-chatbot-builder-js) 🆕
+  - [Node.js](https://github.com/amio-io/amio-chatbot-builder-js) 🆕
 
 ## API Reference
   - [Facebook Messenger](https://docs.amio.io/v1.0/reference#api-facebook-messenger)
