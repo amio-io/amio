@@ -11,7 +11,7 @@ Happy coding! 🙃
 ## SDKs
 
 ### Amio API
-  - [Node.js](https://github.com/amio-io/amio-sdk-js)
+  - [Node.js](https://github.com/amio-io/amio-sdk-js) (ES6)
   - [PHP](https://github.com/myps/amio-php-sdk) (unofficial)
 
 ### Chatbot Builder
