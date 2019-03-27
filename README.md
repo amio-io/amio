@@ -11,14 +11,14 @@ Happy coding! 🙃
 ## SDKs
 
 ### Amio API
-  - [Node.js](https://github.com/amio-io/amio-sdk-js) (ES5)
+  - [Node.js](https://github.com/amio-io/amio-sdk-js)
   - [PHP](https://github.com/myps/amio-php-sdk) (unofficial)
 
 ### Chatbot Builder
   - [Node.js](https://github.com/amio-io/amio-chatbot-builder-js)
 
 ### Amio Chat
-  - [Webchat SDK](https://github.com/amio-io/amio-webchat-sdk) (ES5)
+  - [Webchat SDK](https://github.com/amio-io/amio-webchat-sdk)
 
 ## API Reference
   - [Facebook Messenger](https://docs.amio.io/v1.0/reference#api-facebook-messenger)
